@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.pyc;*.pyo;*.rbc;*.sublime-project;*.sublime-workspace;*~;.DS_Store;.bin;.cache;.codeintel;.coveragerc;.data;.eggs;.git;.gitmodules;.grunt;.hg;.installed.cfg;.sass-cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;develop-eggs;docs;downloads;etc;npm-debug.log;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test" type="Python" />
+    </extensionMap>
+  </component>
+</application>

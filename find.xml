@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.html</mask>
+      <mask>*.py</mask>
+      <mask>*.js</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
+  </component>
+</application>
