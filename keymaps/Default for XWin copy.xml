@@ -5,6 +5,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -18,6 +21,7 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -51,6 +55,12 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Resume" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -60,6 +70,8 @@
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark9" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
