@@ -19,7 +19,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/django_components/bin/python" value="true" />
-        <entry key="$USER_HOME$/.virtualenvs/ki/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/ki/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/volontulo/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/volontulo/bin/python3" value="false" />
         <entry key="$USER_HOME$/Projects/ki/key-usergen/bin/python" value="true" />
@@ -30,7 +30,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/django_components/bin/python" value="false" />
-        <entry key="$USER_HOME$/.virtualenvs/ki/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ki/bin/python" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/volontulo/bin/python" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/volontulo/bin/python3" value="true" />
         <entry key="$USER_HOME$/Projects/ki/key-usergen/bin/python" value="false" />
