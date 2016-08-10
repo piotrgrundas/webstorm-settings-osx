@@ -1,7 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="deb" value="debugger;" description="Javascript debugger" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
