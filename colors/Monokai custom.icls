@@ -402,7 +402,6 @@
         <option name="FOREGROUND" value="938e76" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
@@ -492,7 +491,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FONT_TYPE" value="2" />
