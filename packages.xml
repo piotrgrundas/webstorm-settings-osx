@@ -5256,7 +5256,6 @@
         <entry key="OSMDiffFetcher" value="" />
         <entry key="OSMerge" value="" />
         <entry key="OSR" value="" />
-        <entry key="OSSPy" value="" />
         <entry key="OSlash" value="" />
         <entry key="OTPTunnel" value="" />
         <entry key="OTRXMPPChannel" value="" />
@@ -8207,7 +8206,6 @@
         <entry key="SYTAD" value="" />
         <entry key="S_html" value="" />
         <entry key="SabPyth" value="" />
-        <entry key="SaeKvdbWrapper" value="" />
         <entry key="Safari-command" value="" />
         <entry key="Safe" value="" />
         <entry key="SafeAPI" value="" />
@@ -15232,6 +15230,7 @@
         <entry key="bob.io.matlab" value="" />
         <entry key="bob.io.video" value="" />
         <entry key="bob.ip.base" value="" />
+        <entry key="bob.ip.caffe_extractor" value="" />
         <entry key="bob.ip.color" value="" />
         <entry key="bob.ip.draw" value="" />
         <entry key="bob.ip.facedetect" value="" />
@@ -18649,6 +18648,7 @@
         <entry key="cmsplugin-fbalbum" value="" />
         <entry key="cmsplugin-fbalbumlight" value="" />
         <entry key="cmsplugin-fbgallery" value="" />
+        <entry key="cmsplugin-feed-ai" value="" />
         <entry key="cmsplugin-feedback" value="" />
         <entry key="cmsplugin-feedparser" value="" />
         <entry key="cmsplugin-file" value="" />
@@ -21883,6 +21883,7 @@
         <entry key="cubicweb-dbpedia" value="" />
         <entry key="cubicweb-document" value="" />
         <entry key="cubicweb-drh" value="" />
+        <entry key="cubicweb-eac" value="" />
         <entry key="cubicweb-elections" value="" />
         <entry key="cubicweb-email" value="" />
         <entry key="cubicweb-embed" value="" />
@@ -48360,6 +48361,7 @@
         <entry key="lololo" value="" />
         <entry key="lolologist" value="" />
         <entry key="lolqy" value="" />
+        <entry key="lolsync" value="" />
         <entry key="lomap" value="" />
         <entry key="lon_nester" value="" />
         <entry key="loners" value="" />
@@ -53825,6 +53827,7 @@
         <entry key="nester_zxp" value="" />
         <entry key="nester_zy" value="" />
         <entry key="nester_zz" value="" />
+        <entry key="nester_zzh" value="" />
         <entry key="nester_zzn" value="" />
         <entry key="nesterabhishek" value="" />
         <entry key="nesterarneill" value="" />
@@ -64719,6 +64722,7 @@
         <entry key="pymer" value="" />
         <entry key="pymercury" value="" />
         <entry key="pymesh" value="" />
+        <entry key="pymeshfix" value="" />
         <entry key="pymeshio" value="" />
         <entry key="pymesos" value="" />
         <entry key="pymessage" value="" />
@@ -69198,6 +69202,7 @@
         <entry key="qcli" value="" />
         <entry key="qcloud" value="" />
         <entry key="qcloud_cos" value="" />
+        <entry key="qcloud_cos_v4" value="" />
         <entry key="qcloud_video" value="" />
         <entry key="qcloudcli" value="" />
         <entry key="qcmaskingcode" value="" />
@@ -76944,6 +76949,7 @@
         <entry key="sphinxcontrib-newsfeed" value="" />
         <entry key="sphinxcontrib-nicovideo" value="" />
         <entry key="sphinxcontrib-nwdiag" value="" />
+        <entry key="sphinxcontrib-openapi" value="" />
         <entry key="sphinxcontrib-openstreetmap" value="" />
         <entry key="sphinxcontrib-operationdomain" value="" />
         <entry key="sphinxcontrib-osaka" value="" />
@@ -86089,6 +86095,7 @@
         <entry key="whtmacro" value="" />
         <entry key="whtranscripts" value="" />
         <entry key="why_nester" value="" />
+        <entry key="why_python_v1" value="" />
         <entry key="whybase" value="" />
         <entry key="wia" value="" />
         <entry key="wicked" value="" />
@@ -89095,6 +89102,6 @@
         <entry key="zzzfs" value="" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1474436546238" />
+    <option name="LAST_TIME_CHECKED" value="1474446704853" />
   </component>
 </application>
