@@ -59,9 +59,6 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="Gotometaation">
-    <keyboard-shortcut first-keystroke="meta g" />
-  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -69,6 +66,9 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoTest" />
+  <action id="Gotometaation">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />
