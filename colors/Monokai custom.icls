@@ -605,6 +605,7 @@
       <value>
         <option name="BACKGROUND" value="585654" />
         <option name="EFFECT_COLOR" value="ff243a" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -616,7 +617,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebefeb" />
-        <option name="BACKGROUND" value="2e2e2e" />
+        <option name="BACKGROUND" value="5d5d5d" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="c28c0e" />
       </value>
@@ -1495,6 +1496,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f8d43f" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
