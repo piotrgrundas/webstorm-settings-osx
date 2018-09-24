@@ -1,0 +1,16 @@
+<templateSet group="user">
+  <template name="log" value="console.log($END$);" description="console.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="deb" value="debugger;" description="debugger;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
