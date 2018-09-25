@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
