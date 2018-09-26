@@ -205,10 +205,10 @@
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="meta f3" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
