@@ -237,6 +237,7 @@
   <action id="ToggleBookmark9" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
