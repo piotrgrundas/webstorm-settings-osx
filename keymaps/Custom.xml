@@ -172,10 +172,10 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
