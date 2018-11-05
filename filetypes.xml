@@ -11,6 +11,7 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping pattern="_lightbox" type="SCSS" />
+      <mapping pattern="defaultAvatar" type="TypeScript" />
       <mapping pattern="jwt" type="TypeScript" />
     </extensionMap>
   </component>
