@@ -150,6 +150,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
